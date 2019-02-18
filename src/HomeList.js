@@ -61,6 +61,19 @@ export default class HomeList extends Component {
           ]
         },
 
+        {
+          key: 5,
+          title: 'Pedir',
+          img:require('../assets/images/tipos/sobremesa.png'),
+          description: 'Faça seu pedido',
+          bg: '#cccccc',
+          products: [
+            {key: 1, name: 'Brownie', img:require('../assets/images/cardapio/sobremesas/brownie_gd.png')},
+            {key: 2, name: 'Creme papaya', img:require('../assets/images/cardapio/sobremesas/creme_papaya_cassis_gd.png')},
+            {key: 3, name: 'Delícia gelada', img:require('../assets/images/cardapio/sobremesas/delicia_gelada_gd.png')},
+          ]
+        },
+
 
       ]
     };
