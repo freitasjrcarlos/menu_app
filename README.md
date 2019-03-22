@@ -1,2 +1,4 @@
-# menu_app
- Testing app for restaurant menu
+# Menu App
+Test App for the restaurant menu.
+
+Created with React Native.
